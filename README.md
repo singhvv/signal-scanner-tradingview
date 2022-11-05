@@ -1,6 +1,10 @@
 # signal-scanner-tradingview
 This script scans for signals on tradingview.com [DOES NOT WORK ANYMORE]
 
+ETA: This code does not follow any good sofware practices
+I was learning
+DON'T JUDGE
+
 I created this as a practice project when I was learning Python
 
 What it does:
