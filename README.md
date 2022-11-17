@@ -1,9 +1,5 @@
 # signal-scanner-tradingview
-This script scans for signals on tradingview.com [DOES NOT WORK ANYMORE]
-
-ETA: This code does not follow any good sofware practices
-I was learning
-DON'T JUDGE
+This script scans for signals on tradingview.com
 
 I created this as a practice project when I was learning Python
 
@@ -15,4 +11,4 @@ What it does:
 - Sends an email to the user when the conditions are met
 
 This was only created to implement a basic trading strategy and is not very effective for generating profits.
-I created this project in March 2022 and the website has been updated since that time, so this script does not work anymore
+Created in March 2022
